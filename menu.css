@@ -1,0 +1,39 @@
+.buttons{
+    float: right;
+    background-color: blue;
+    color: white;
+    border: solid;
+    padding: 8px;
+    width: 85px;
+    cursor: pointer;
+}
+
+a{
+    color: white;
+}
+
+.text{
+     font-size: 10px;
+     position: absolute;
+     margin: auto;
+}
+
+#logo{
+    cursor: pointer;
+    float:left;
+    font-family: 'Satisfy', cursive;
+    font-size: 26px;
+    color: blue;
+    margin-left: 5px;
+}
+
+.menu-container{
+    width: 100%;
+    display: inline-block;
+    border: 2px solid blue;
+}
+
+#text{
+    text-align: center;
+    text-decoration: underline;
+}
